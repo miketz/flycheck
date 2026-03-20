@@ -1,6 +1,8 @@
 ``master`` (unreleased)
 =======================
 
+- Add ``neocaml-opam-mode`` support to the ``opam`` checker.
+
 36.0 (2026-02-19)
 ======================
 
